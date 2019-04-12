@@ -1,0 +1,38 @@
+.fakeimg {
+    height: 220px;
+    border:1px solid #000;
+  }
+  .button-operator{
+	  background: none;
+    border: none;
+	border-radius: 30px;
+    /*padding-top: 4px;*/
+  }
+  .fa-minus-circle{
+	  color:#29338e;
+	  font-size: 30px;
+  }
+  .fa-plus-circle{
+	  color:#eb375d;
+	  font-size: 30px;
+  }
+  .text-title{
+	  font-size:24px;
+	  color:#525282;
+  }
+  .p-20{
+	padding:20px;  
+  }
+  .border-bottom-line{
+	  border-bottom:1px solid #ddd;
+  }
+  
+  .center-block{
+	  p-30:30px;
+  }
+	button[disabled] {
+		background-color: #a7a79d;
+	}
+	button[enabled] {
+		background-color: white;
+	}
